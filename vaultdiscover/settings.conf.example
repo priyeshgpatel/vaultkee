@@ -1,3 +1,3 @@
 [VaultDiscover]
-logical_path = /var/lib/vault/logical
+logical_path = /secret
 vault_url = https://localhost:8200
